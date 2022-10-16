@@ -15,7 +15,7 @@
 2. Add it to your `tsconfig.json` file:
    ```json
    {
-     "extends": "@tsconfig/tsconfig"
+     "extends": "@hexatool/tsconfig"
    }
    
 ## Hexatool Code Quality Standards
