@@ -3,3 +3,4 @@
 .yarnrc.yml
 yarn.lock
 .editorconfig
+renovate.json
