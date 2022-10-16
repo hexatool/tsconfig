@@ -17,7 +17,7 @@
    {
      "extends": "@hexatool/tsconfig"
    }
-   
+
 ## Hexatool Code Quality Standards
 
 Publishing this package we are committing ourselves to the following code quality standards:
@@ -27,4 +27,4 @@ Publishing this package we are committing ourselves to the following code qualit
 - **One specific purpose** to meet without having to carry a bunch of unnecessary other utilities
 - **Tests** as documentation and usage examples
 - **Well documented ReadMe** showing how to install and use
--  **License favoring Open Source** and collaboration
+- **License favoring Open Source** and collaboration
