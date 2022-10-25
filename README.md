@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   TSConfig for working with Node 16 + ESM + Strictest.
+   TSConfig for working with Node 18 + ESM + Strictest.
 </p>
 
 ## How to use

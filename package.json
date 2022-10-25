@@ -1,10 +1,10 @@
 {
 	"name": "@hexatool/tsconfig",
-	"version": "1.0.0",
-	"description": "A base TSConfig for working with Node 16 + ESM + Strictest.",
+	"version": "18.0.0",
+	"description": "A base TSConfig for working with Node 18 + ESM + Strictest.",
 	"keywords": [
 		"tsconfig",
-		"node16-strictest-esm"
+		"node18-strictest-esm"
 	],
 	"homepage": "https://github.com/hexatool/tsconfig",
 	"bugs": {
@@ -18,7 +18,7 @@
 	"license": "MIT",
 	"main": "tsconfig.json",
 	"engines": {
-		"node": ">=16"
+		"node": ">=18"
 	},
 	"volta": {
 		"node": "18.11.0",
