@@ -17,9 +17,16 @@
 	"author": "MarioMH8",
 	"license": "MIT",
 	"main": "tsconfig.json",
+	"scripts": {
+		"publish": "changeset publish",
+		"version": "changeset version && $npm_execpath install"
+	},
+	"devDependencies": {
+		"@changesets/cli": "2.26.0"
+	},
 	"volta": {
-		"node": "18.12.1",
-		"yarn": "1.22.19"
+		"node": "18.13.0",
+		"yarn": "3.3.1"
 	},
 	"packageManager": "yarn@3.3.1"
 }

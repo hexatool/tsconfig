@@ -1,6 +1,8 @@
+.changeset
+.github
 .idea
 .yarn
-.yarnrc.yml
-yarn.lock
 .editorconfig
+.yarnrc.yml
 renovate.json
+yarn.lock

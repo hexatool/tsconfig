@@ -6,17 +6,27 @@
    TSConfig for working with Node 18 + ESM + Strictest.
 </p>
 
+## Installation
+
+```bash
+npm install --save-dev @hexatool/tsconfig
+```
+
+**Using yarn**
+
+```bash
+yarn add @hexatool/tsconfig --dev
+```
+
 ## How to use
 
-1. Install the dependency
-   ```bash
-   npm install --save-dev @hexatool/tsconfig
-   ```
-2. Add it to your `tsconfig.json` file:
+Add it to your `tsconfig.json` file:
+
    ```json
    {
      "extends": "@hexatool/tsconfig"
    }
+   ```
 
 ## Hexatool Code Quality Standards
 
