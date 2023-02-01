@@ -14,7 +14,6 @@
 		"type": "git",
 		"url": "https://github.com/hexatool/tsconfig"
 	},
-	"author": "MarioMH8",
 	"license": "MIT",
 	"main": "tsconfig.json",
 	"scripts": {
