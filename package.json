@@ -1,6 +1,6 @@
 {
 	"name": "@hexatool/tsconfig",
-	"version": "18.0.0",
+	"version": "20.0.0",
 	"description": "A base TSConfig for working with Node 18 + ESM + Strictest.",
 	"keywords": [
 		"tsconfig",
