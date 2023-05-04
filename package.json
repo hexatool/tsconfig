@@ -21,7 +21,7 @@
 		"version": "changeset version"
 	},
 	"devDependencies": {
-		"@changesets/cli": "2.26.0"
+		"@changesets/cli": "2.26.1"
 	},
 	"volta": {
 		"node": "18.14.0",
