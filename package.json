@@ -1,10 +1,10 @@
 {
 	"name": "@hexatool/tsconfig",
-	"version": "20.0.0",
-	"description": "A base TSConfig for working with Node 18 + ESM + Strictest.",
+	"version": "20.0.1",
+	"description": "A base TSConfig for working with Node 20 + ESM + Strictest.",
 	"keywords": [
 		"tsconfig",
-		"node18-strictest-esm"
+		"node20-strictest-esm"
 	],
 	"homepage": "https://github.com/hexatool/tsconfig",
 	"bugs": {
@@ -16,6 +16,9 @@
 	},
 	"license": "MIT",
 	"main": "tsconfig.json",
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"publish": "changeset publish",
 		"version": "changeset version"
@@ -25,7 +28,7 @@
 	},
 	"volta": {
 		"node": "18.14.0",
-		"yarn": "3.4.1"
+		"yarn": "3.5.1"
 	},
-	"packageManager": "yarn@3.4.1"
+	"packageManager": "yarn@3.5.1"
 }

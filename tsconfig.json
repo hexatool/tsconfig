@@ -3,7 +3,7 @@
 	"display": "Node 20 + ESM + Strictest",
 	"compilerOptions": {
 		"lib": [
-			"es2023"
+			"es2022"
 		],
 		"module": "es2022",
 		"target": "es2022",

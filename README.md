@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   TSConfig for working with Node 18 + ESM + Strictest.
+   TSConfig for working with Node 20 + ESM + Strictest.
 </p>
 
 ## Installation
